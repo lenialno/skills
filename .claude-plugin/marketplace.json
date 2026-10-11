@@ -1,0 +1,29 @@
+{
+  "name": "lenialno",
+  "description": "Lenialno agent skills",
+  "owner": {
+    "name": "Lenialno"
+  },
+  "plugins": [
+    {
+      "name": "roofline",
+      "displayName": "Roofline",
+      "source": {
+        "source": "github",
+        "repo": "lenialno/roofline"
+      },
+      "description": "Roofline: Inference Engineer skills (EN and RU) for on-prem vLLM/SGLang serving, a Taskfile toolbox and an incident subagent",
+      "homepage": "https://github.com/lenialno/roofline",
+      "repository": "https://github.com/lenialno/roofline",
+      "license": "MIT",
+      "category": "inference",
+      "tags": [
+        "inference",
+        "vllm",
+        "sglang",
+        "llm-serving",
+        "gpu"
+      ]
+    }
+  ]
+}
