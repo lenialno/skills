@@ -10,7 +10,7 @@ claude plugin marketplace add lenialno/skills
 
 | Product line | What it is | Install |
 |---|---|---|
-| [Roofline](https://github.com/lenialno/roofline) | Inference Engineer skills for on-prem LLM serving on vLLM or SGLang: runtime, tool-call parsers, performance, SLO incidents, capacity, a Taskfile toolbox and an incident subagent. English and Russian versions | `claude plugin install roofline@lenialno` |
+| <img src="https://raw.githubusercontent.com/lenialno/roofline/main/brand/svg/mark-on-light.svg" alt="" height="16"> [Roofline](https://github.com/lenialno/roofline) | Inference Engineer skills for on-prem LLM serving on vLLM or SGLang: runtime, tool-call parsers, performance, SLO incidents, capacity, a Taskfile toolbox and an incident subagent. English and Russian versions | `claude plugin install roofline@lenialno` |
 
 Updates: `claude plugin marketplace update lenialno`, then `claude plugin update <plugin>@lenialno`.
 
